@@ -6,23 +6,24 @@ Repository contains the coursework related to the Algorithms course offered by M
   - Max List
 * Sorting and Trees
   - Insertion and Merge sort
-* Heap Sort
-* BST SORT
-* AVL Binary Balanced Search Tree
-* Counting Sort
-* Radix Sort
-Hashing
+  - Heap Sort
+  - BST SORT  
+  - AVL Binary Balanced Search Tree
+  - Counting Sort
+  - Radix Sort
 * Hashing
-Numerics
-* Integer Decimals
-Graphs
-* Graph Search - Depth First Search
-* Graph Search - Breadth First Search
-Shortest Paths
-* Shortest Distance
-* Dijkstra ALgorithm
-* Bellman Ford Algorithm
-Dynamic Programming
-* Dynamic Programming Intro
-* BlackJack
-* Dynamic Programming Line Justify
+  - Open Addressing
+  - Separate Chaining
+* Numerics
+  - Integer Decimals
+* Graphs
+  - Graph Search - Depth First Search
+  - Graph Search - Breadth First Search
+* Shortest Paths
+  - Shortest Distance
+  - Dijkstra ALgorithm
+  - Bellman Ford Algorithm
+* Dynamic Programming
+  - Dynamic Programming Intro
+  - BlackJack
+  - Dynamic Programming Line Justify
